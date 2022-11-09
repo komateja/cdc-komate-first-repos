@@ -1,1 +1,1 @@
-# cdc-komate-first-repos
+This is Komate first repos 
